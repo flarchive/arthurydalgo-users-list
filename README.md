@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `arthu
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `1.0`
+- **Flarum Compatibility:** `^1.`
+- **Direct Download (.zip):** [Download 1.0 (.zip)](https://github.com/flarchive/arthurydalgo-users-list/archive/refs/tags/archive/v1.0.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/arthurydalgo-users-list/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/arthurydalgo-users-list.json)
 - Upstream repository: https://github.com/ArthurYdalgo/users-list.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
